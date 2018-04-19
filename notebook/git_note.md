@@ -18,8 +18,8 @@ Git 版本控管
 我們可以使用以下的指令來進行設定：（--global</code> 表示是全域設定）
 
 ```
-$ git config --global user.name "claire"
-$ git config --global user.email "cla022318@yahoo.com.tw"
+$ git config --global user.name "Hsieh chia yu"
+$ git config --global user.email "hcy5288@gmail.com"
 ```
 
 >檢查是否成功設定
